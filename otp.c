@@ -1,9 +1,7 @@
 #include <iostream>
 #include<cstdlib>
 #include<ctime>
-
 using namespace std;
-int gen();
 int main()
 {
     int r,e;
